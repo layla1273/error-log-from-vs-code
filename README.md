@@ -1,1 +1,16 @@
-# error-log-from-vs-code
+# error-log-from-vs-code!
+[error log 1](https://user-images.githubusercontent.com/84575233/135087585-434cfc57-8df8-42b8-b4e0-608654cd5e86.png)
+![error log 2](https://user-images.githubusercontent.com/84575233/135087620-9f0f982f-1451-4941-beb8-ad9f442a5418.png)
+![error log 3](https://user-images.githubusercontent.com/84575233/135087629-60f829c8-c61f-41d7-86e6-54ef9a1cc5e2.png)
+![error log 4](https://user-images.githubusercontent.com/84575233/135087641-aef72741-e43f-43d5-adaf-38958f8782de.png)
+![error log 5](https://user-images.githubusercontent.com/84575233/135087651-e860ed59-0aaf-41e2-9549-d60cdb5910f9.png)
+![error log 6](https://user-images.githubusercontent.com/84575233/135087662-53550a53-e823-4dd0-908b-bd3ffb5decdd.png)
+![error log 7](https://user-images.githubusercontent.com/84575233/135087670-94952331-71ba-4d8e-adf5-f0f9a96cd6f3.png)
+![error log 8](https://user-images.githubusercontent.com/84575233/135087678-911f2c76-3004-428b-a9cf-a83255d73fba.png)
+![error log 9](https://user-images.githubusercontent.com/84575233/135087689-be0d9015-c031-4aec-9cf2-6476357db5bf.png)
+![error log 10](https://user-images.githubusercontent.com/84575233/135087704-ec5c7d38-412c-4ad2-8bf4-7ba8747c7a35.png)
+![error code 11](https://user-images.githubusercontent.com/84575233/135087715-38f9287e-5426-486e-b2b7-2ed7cc4efee6.png)
+![error log 12](https://user-images.githubusercontent.com/84575233/135087723-6ce20a73-fbd7-41ba-bd9a-02d08f33ec01.png)
+![error log 13](https://user-images.githubusercontent.com/84575233/135087733-657854ff-b23a-4758-8689-c3f34d413d6f.png)
+![error log 14](https://user-images.githubusercontent.com/84575233/135087747-cc64b836-c0c3-42ed-9464-7f290430bb69.png)
+![error log 15](https://user-images.githubusercontent.com/84575233/135087768-58efa9e1-6271-4778-9ae0-fc5e5fbdcc64.png)
